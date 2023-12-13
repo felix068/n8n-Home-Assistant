@@ -1,6 +1,6 @@
-name: "n8n HA"
+name: "n8n Home Assistant"
 description: "n8n-Home-Assistant"
-version: "1.1.0"
+version: "3.1.0"
 slug: "n8n"
 init: false
 arch:
