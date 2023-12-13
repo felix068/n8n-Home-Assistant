@@ -1,1 +1,1 @@
-npx n8n
+npx -y n8n
